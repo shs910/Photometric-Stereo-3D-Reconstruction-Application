@@ -1,0 +1,14 @@
+12
+untreated_data/cat/cat.0.png
+untreated_data/cat/cat.1.png
+untreated_data/cat/cat.2.png
+untreated_data/cat/cat.3.png
+untreated_data/cat/cat.4.png
+untreated_data/cat/cat.5.png
+untreated_data/cat/cat.6.png
+untreated_data/cat/cat.7.png
+untreated_data/cat/cat.8.png
+untreated_data/cat/cat.9.png
+untreated_data/cat/cat.10.png
+untreated_data/cat/cat.11.png
+untreated_data/cat/cat.mask.png
